@@ -1,0 +1,8 @@
+//Valor descrito da temperatura em Celcius
+var temperaturaCelsius = 30;
+
+//Conversão da temperatura de Celcius para Fahrenheit
+var calculoTemperatura = temperaturaCelsius * 1.8 + 32;
+
+//Print na tela da temperatura convertida
+console.log("A temperatura em Fahrenheit é: " + calculoTemperatura);
