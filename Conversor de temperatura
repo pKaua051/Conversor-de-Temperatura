@@ -1,0 +1,7 @@
+var temperaturaCelsius = 30;
+
+var calculoTemperatura = temperaturaCelsius * 1.8 + 32;
+
+document.write(
+ "<h2>" + "A temperatura em Fahrenheit é: " + calculoTemperatura + "</h2>"
+);
